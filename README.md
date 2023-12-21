@@ -1,6 +1,6 @@
 ### Hi,Lorenzo here! 👋
 
-#Hello everyone! Here you can discover some of my projects that #I've crafted both for university and personal enjoyment. Don't #worry, more are on the way soon!
+#Hello everyone! Here you can discover some of my projects that I've crafted both for university and personal enjoyment. Don't worry, more are on the way soon!
 
 #Languages frequently used
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
