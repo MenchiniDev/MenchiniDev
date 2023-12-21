@@ -1,5 +1,7 @@
 # Hi,Lorenzo here! 👋
 
+#### Computer Engineering Student
+
 ## Hello everyone! Here you can discover some of my projects that I've crafted both for university and personal enjoyment. Don't worry, more are on the way soon!
 
 ### Languages frequently used
@@ -13,6 +15,9 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![Assembler](https://img.shields.io/badge/Assembler-808080?style=flat-square&logo=assemblyscript&logoColor=white)](https://en.wikipedia.org/wiki/Assembly_language)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![SQL](https://img.shields.io/badge/SQL-00000F?style=flat-square&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)](https://mariadb.org/)
 
 <!--
 **MenchiniDev/MenchiniDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
