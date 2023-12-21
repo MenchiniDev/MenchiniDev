@@ -1,5 +1,6 @@
-### Hi there 👋
-### Lorenzo here!
+### Hi everyone,Lorenzo here! 👋
+### 
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
 <!--
 **MenchiniDev/MenchiniDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
