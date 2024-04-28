@@ -1,6 +1,6 @@
 # Hi,Lorenzo here! 👋
 
-## Computer Engineering Student 📚
+## Artificial Intelligence and Data Engineering Student 📚
 
 ### Hello everyone! Here you can discover some of my projects that I've crafted both for university and personal enjoyment. Don't worry, more are on the way soon!
 
