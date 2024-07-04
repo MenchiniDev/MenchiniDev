@@ -1,10 +1,14 @@
-# Hi,Lorenzo here! 👋
+# Hi, Lorenzo here! 👋
 
 ## Artificial Intelligence and Data Engineering Student 📚
 
 ### Hello everyone! Here you can discover some of my projects that I've crafted both for university and personal enjoyment. Don't worry, more are on the way soon!
 
+![Profile views](https://komarev.com/ghpvc/?username=MenchiniDev&color=blue)
+
 ### Languages frequently used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MenchiniDev&layout=compact&theme=default)
+
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
