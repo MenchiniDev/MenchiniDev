@@ -5,6 +5,7 @@
 ### Hello everyone! Here you can discover some of my projects that I've crafted both for university and personal enjoyment. Don't worry, more are on the way soon!
 
 ![Profile views](https://komarev.com/ghpvc/?username=MenchiniDev&color=blue)
+https://www.codetriage.com/numpy/numpy/badges/users.svg
 
 ### Languages frequently used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MenchiniDev&layout=compact&theme=default)
